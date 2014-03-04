@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<application name="temp">
+<english>
+	<questions>
+	</questions>
+	<prompts>
+		<prompt name="rest" text="RESET" page="page1" voice=""/>
+		<prompt name="changeAng" text="Change Angle" page="page1" voice=""/>
+		<prompt name="changeOrient" text="Change Orientation" page="page1" voice=""/>
+		<prompt name="pntEnlarge" text="Point of enlargement" page="page1" voice=""/>
+	</prompts>
+	
+	<instructions>
+	</instructions>
+	
+	<miscellaneous>
+	</miscellaneous>
+</english>
+<hindi>
+	<questions>
+	</questions>
+	<prompts>
+	<prompt name="p101" text="" page="page1" voice="" />
+	<prompt name="p102" text="" page="page1" voice="" />
+	
+	</prompts>
+	
+	<instructions>
+	</instructions>
+	
+	<miscellaneous>
+	</miscellaneous>
+
+</hindi>
+<gujarati>
+	<questions>
+	</questions>
+	<prompts>
+		<prompt name="p101" text="" page="page1" voice="" />
+		
+	</prompts>
+	
+	<instructions>
+	</instructions>
+	
+	<miscellaneous>
+	</miscellaneous>
+
+</gujarati>
+</application>
