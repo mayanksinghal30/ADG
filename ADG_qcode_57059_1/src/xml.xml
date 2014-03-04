@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<application name="temp">
+<english>
+	<questions>
+	</questions>
+	<prompts>
+		<prompt name="textm" text="Vary the scale factor to the right of 0." page="page1" voice=""/>
+		<prompt name="textx" text="Now, gradually move it to the left and observe what happens when the scale factor becomes negative." page="page1" voice=""/>
+		<prompt name="textr" text="r" page="page1" voice=""/>
+		
+	</prompts>
+	
+	<instructions>
+	</instructions>
+	
+	<miscellaneous>
+	</miscellaneous>
+</english>
+<hindi>
+	<questions>
+	</questions>
+	<prompts>
+	<prompt name="p101" text="" page="page1" voice="" />
+	<prompt name="p102" text="" page="page1" voice="" />
+	
+	</prompts>
+	
+	<instructions>
+	</instructions>
+	
+	<miscellaneous>
+	</miscellaneous>
+
+</hindi>
+<gujarati>
+	<questions>
+	</questions>
+	<prompts>
+		<prompt name="p101" text="" page="page1" voice="" />
+		
+	</prompts>
+	
+	<instructions>
+	</instructions>
+	
+	<miscellaneous>
+	</miscellaneous>
+
+</gujarati>
+</application>
